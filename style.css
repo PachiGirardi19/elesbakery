@@ -1,0 +1,33 @@
+#cabeceraindex {
+    background-color: aquamarine;
+    height: 600px;
+}
+#modulo1 {
+    padding-top: 30px;
+    height: 120px;
+}
+#marca {
+    background-color: coral;
+}
+#botonera {
+    background-color: cornflowerblue;
+}
+#modulo2 {
+    padding-top: 100px;
+    padding-right: 50px;
+    height: 450px;
+}
+#seccionindex {
+    background-color: blueviolet;
+    height: 550px;
+}
+#imgindex {
+    background-color: darkorange;
+}
+#textoindex {
+    background-color: darkolivegreen;
+}
+#footerindex {
+    background-color: brown;
+    height: 100px;
+}
