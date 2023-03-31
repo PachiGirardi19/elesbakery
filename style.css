@@ -31,3 +31,149 @@
     background-color: brown;
     height: 100px;
 }
+
+
+
+#cabecera_productos {
+    background-color: aquamarine;
+    
+}
+#modulo1 {
+
+    height: 120px;
+}
+#marca {
+    background-color: coral;
+}
+#btn_principal {
+    background-color: cornflowerblue;
+}
+
+
+#seccion_productos {
+	background-color: chocolate;
+	height: 1700px;
+}
+
+#modulo2 {
+height: 100px;
+}
+
+#espacio1{
+	background-color: chocolate;
+	height: 100px;
+}
+
+#modulo3{
+	height: 300px;
+}
+
+#espacioizquierda1{
+	background-color: chocolate;
+}
+
+#tortas{
+	background-color: aliceblue;
+	height: 300px;	
+}
+
+#espacioderecha1{
+	background-color: chocolate;
+}
+
+#modulo4{
+	height: 100px;
+}
+
+#espacio2{
+	background-color: chocolate;
+	height: 100px;
+}
+
+#modulo5{
+	height: 300px;
+}
+
+#espacioizquierda2{
+	background-color: chocolate;
+}
+
+#alfajores{
+	background-color: greenyellow;
+	height: 300px;	
+}
+
+#espacioderecha2{
+	background-color: chocolate;
+}
+
+#modulo6{
+	height: 100px;
+}
+
+#espacio3{
+	background-color: chocolate;
+	height: 100px;
+}
+
+#modulo7{
+	height: 300px;
+}
+
+#espacioizquierda3{
+	background-color: chocolate;
+}
+
+#masitas{
+	background-color: cornflowerblue;
+	height: 300px;	
+}
+
+#espacioderecha3{
+	background-color: chocolate;
+}
+
+
+#modulo8{
+	height: 100px;
+}
+
+#espacio4{
+	background-color: chocolate;
+	height: 100px;
+}
+
+#modulo9{
+	height: 300px;
+}
+
+#espacioizquierda4{
+	background-color: chocolate;
+	height: 100px;
+}
+		
+#desayunos{
+	background-color: palevioletred;
+	height: 300px;
+}	
+
+#espacioderecha4{
+	background-color: chocolate;
+	height: 100px;
+}
+
+#modulo10{
+	height: 100px;
+}
+
+#espacio5{
+	background-color: chocolate;
+	height: 100px;
+}
+
+
+
+#pie_productos {
+	background-color: rebeccapurple;
+	height: 120px;
+}
