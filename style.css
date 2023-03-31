@@ -38,7 +38,7 @@
     background-color: aquamarine;
     
 }
-#modulo1 {
+#modulop1 {
 
     height: 120px;
 }
@@ -55,7 +55,7 @@
 	height: 1700px;
 }
 
-#modulo2 {
+#modulop2 {
 height: 100px;
 }
 
@@ -176,4 +176,11 @@ height: 100px;
 #pie_productos {
 	background-color: rebeccapurple;
 	height: 120px;
+}
+
+@media screen and (max-width: 575px) {
+#modulo2 {
+	justify-content: center;
+	padding-right: 0%;
+}
 }
